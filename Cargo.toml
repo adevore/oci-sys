@@ -1,0 +1,7 @@
+[package]
+authors = ["Aaron DeVore <aaron.devore@gmail.com>"]
+name = "oci-sys"
+version = "0.1.0"
+
+[build-dependencies]
+bindgen = "0.31.0"
