@@ -6,6 +6,7 @@ description = "FFI bindings to the Oracle Call Interface"
 license = "MIT"
 repository = "https://github.com/adevore/oci-sys"
 keywords = ["oci", "oracle", "bindings", "database"]
+readme = "README.md"
 
 [build-dependencies]
 bindgen = "0.31.0"
