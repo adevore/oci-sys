@@ -1,7 +1,11 @@
 [package]
-authors = ["Aaron DeVore <aaron.devore@gmail.com>"]
 name = "oci-sys"
 version = "0.1.0"
+authors = ["Aaron DeVore <aaron.devore@gmail.com>"]
+description = "FFI bindings to the Oracle Call Interface"
+license = "MIT"
+repository = "https://github.com/adevore/oci-sys"
+keywords = ["oci", "oracle", "bindings", "database"]
 
 [build-dependencies]
 bindgen = "0.31.0"
